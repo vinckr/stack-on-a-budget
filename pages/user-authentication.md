@@ -66,6 +66,13 @@
 - *Free tier*: Up to 7,000 monthly active users, Up to 10 custom apps, OAuth 2.0 & OpenID Connect.
 - *Pros*: Complete authentication, authorization and user management through their API, client libraries for multiple languages.
 
+### Ory
+
+[Pricing page](https://www.ory.sh/pricing/), [Open Source](https://www.ory.sh/docs/ecosystem/projects)
+
+- *Free tier*: always free, unlimited users, rate limit requests/minute
+- *Pros*: Open Source (Apache2), API first, support FIDO2/WebAuthn, SDKs for all languages, custom UI & flows cloud native
+
 ## Visual Studio Mobile Center
 
 [Pricing Page](https://docs.microsoft.com/en-us/mobile-center/general/pricing)
